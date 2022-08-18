@@ -1,0 +1,1 @@
+This app was created by "npx create-next-app". To work with mongoDB, run "npm install mongodb". To start the server, run "npm run dev" 
