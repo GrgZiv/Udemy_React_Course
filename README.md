@@ -1,5 +1,5 @@
-# Udemy_React_Course
-These are sections from Udemy React Course. Every section besides NextJS was created by running "npx create-react-app".
+# About
+These are sections from Udemy React Course (by Maximilian Schwarzmuller. Every section besides NextJS was created by running "npx create-react-app".
 
 # How to use
 
